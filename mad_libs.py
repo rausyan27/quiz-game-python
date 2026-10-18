@@ -1,0 +1,10 @@
+print("=== MAD LIBS ===")
+nama = input("Nama tokoh: ")
+tempat = input("Tempat: ")
+hewan = input("Hewan: ")
+makanan = input("Makanan: ")
+adj = input("Sifat: ")
+
+print(f"\nPada suatu hari, {nama} pergi ke {tempat}.")
+print(f"Di sana ia bertemu seekor {hewan} yang sedang makan {makanan}.")
+print(f"{nama} pun kaget karena hewan itu terlihat sangat {adj}!")
